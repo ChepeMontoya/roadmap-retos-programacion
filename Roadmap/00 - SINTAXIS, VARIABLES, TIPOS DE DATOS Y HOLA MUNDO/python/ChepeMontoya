@@ -1,1 +1,12 @@
+#https://www.python.org/
+"""
+Esto tambien
+Es
+un 
+comentario
+"""
+my_variable = "variable"
+MY_CONSTANT = "CONSTANTE"
+
+print (hola,python)
 
